@@ -16,6 +16,8 @@
 |[On rewriting code instead of slow refactoring](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)|
 |[Write functions and simple code](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions?utm_source=programmingdigest&utm_medium=email&utm_campaign=400)|
 |[Engineering axioms](https://martinrue.com/my-engineering-axioms/?utm_source=programmingdigest&utm_medium=email&utm_campaign=400)|
+|[Technical debt](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)|
+|[Opinions change as you go (not an article)](https://chriskiehl.com/article/thoughts-after-6-years?utm_source=programmingdigest&utm_medium=email&utm_campaign=405)|
 
 <br>
 
