@@ -18,6 +18,9 @@
 |[Engineering axioms](https://martinrue.com/my-engineering-axioms/?utm_source=programmingdigest&utm_medium=email&utm_campaign=400)|
 |[Technical debt](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)|
 |[Opinions change as you go (not an article)](https://chriskiehl.com/article/thoughts-after-6-years?utm_source=programmingdigest&utm_medium=email&utm_campaign=405)|
+|[Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) and [Systems design](https://apenwarr.ca/log/20201227)|
+
+
 
 <br>
 
