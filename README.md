@@ -19,7 +19,7 @@
 |[Technical debt](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)|
 |[Opinions change as you go (not an article)](https://chriskiehl.com/article/thoughts-after-6-years?utm_source=programmingdigest&utm_medium=email&utm_campaign=405)|
 |[Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) and [Systems design](https://apenwarr.ca/log/20201227)|
-
+|[The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)|
 
 
 <br>
