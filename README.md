@@ -4,6 +4,7 @@
 
 |Dev articles:|
 |--------------------------------------|
+|[Implementers Solvers and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html?utm_source=techleaddigest&utm_medium&utm_campaign=1600)|
 |[What's senior programming about?](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/?utm_source=programmingdigest&utm_medium=email&utm_campaign=383)|
 |[Soft skills of seniors](https://medium.com/@jacobcomer/bridging-the-gap-between-junior-and-senior-engineers-571b2248fbb8)|
 |[Job interviews](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)|
